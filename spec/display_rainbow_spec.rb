@@ -24,3 +24,30 @@ describe '#display_rainbow' do
 end
 
 hello hello
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
